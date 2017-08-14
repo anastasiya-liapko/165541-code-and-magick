@@ -14,7 +14,8 @@
   "homepage": "https://github.com/htmlacademy-javascript/165541-code-and-magick",
   "devDependencies": {
     "eslint": "4.2.0",
-    "eslint-config-htmlacademy": "0.3.x"
+    "eslint-config-htmlacademy": "0.3.x",
+    "eslint-plugin-react": "^7.2.1"
   },
   "license": "MIT",
   "dependencies": {},
